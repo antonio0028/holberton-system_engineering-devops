@@ -1,2 +1,2 @@
 #!/bin/bash
-printenv $POWER | expr / $DIVIDE
+expr $POWER / $DIVIDE
